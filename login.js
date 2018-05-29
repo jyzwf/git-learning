@@ -1,2 +1,4 @@
 console.log('login.js')
-var user_password = '123456'
+
+var login_username = 'zhu'
+
